@@ -11,11 +11,11 @@ Website and App Visitors
 
 Like most website operators, Gambling Addiction collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Gambling Addiction’s purpose in collecting non-personally identifying information is to better understand how Gambling Addiction’s visitors use its website. From time to time, Gambling Addiction may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Gambling Addiction also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on http://appdiggity.com blog posts. Gambling Addiction only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+Gambling Addiction also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on community chat room. Gambling Addiction only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
 Gathering of Personally-Identifying Information
 
-Certain visitors to Gambling Addiction’s websites and apps choose to interact with Gambling Addiction in ways that require Gambling Addiction to gather personally-identifying information. The amount and type of information that Gambling Addiction gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at http://appdiggity.com to provide a username and email address.
+Certain visitors to Gambling Addiction’s websites and apps choose to interact with Gambling Addiction in ways that require Gambling Addiction to gather personally-identifying information. The amount and type of information that Gambling Addiction gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at community chat roomto provide a username and email address.
 
 Security
 
@@ -39,7 +39,7 @@ Cookies
 
 To enrich and perfect your online experience, Gambling Addiction uses “Cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
 
-A cookie is a string of information that a website or app stores on a visitor’s computer, and that the visitor’s browser provides to the website or app each time the visitor returns. Gambling Addiction uses cookies to help Gambling Addiction identify and track visitors, their usage of  http://appdiggity.com or related apps, and their website access preferences. Gambling Addiction visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Gambling Addiction’s websites or apps, with the drawback that certain features of Gambling Addiction’s websites or apps may not function properly without the aid of cookies.
+A cookie is a string of information that a website or app stores on a visitor’s computer, and that the visitor’s browser provides to the website or app each time the visitor returns. Gambling Addiction uses cookies to help Gambling Addiction identify and track visitors, their usage of  community chat roomor related apps, and their website access preferences. Gambling Addiction visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Gambling Addiction’s websites or apps, with the drawback that certain features of Gambling Addiction’s websites or apps may not function properly without the aid of cookies.
 
 By continuing to navigate our website or apps without changing your cookie settings, you hereby acknowledge and agree to Gambling Addiction’s use of cookies.
 
